@@ -7,3 +7,4 @@ import torch.nn as nn
 from torchvision.transforms import transforms
 import torch.nn.functional as F
 
+test = 1
